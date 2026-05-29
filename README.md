@@ -10,7 +10,7 @@ El objetivo de este sitio es servir como guía de estudio rápida para entender 
 
 ¡La página ya se encuentra en línea gracias a **GitHub Pages**! Puedes ver el resultado final y explorar el contenido interactivo haciendo clic en el siguiente enlace:
 
- **[Ver la página en vivo aquí](https://TU_USUARIO.github.io/NOMBRE_DE_TU_REPOSITORIO/)**
+ **[Ver la página en vivo aquí](https://jeyb747.github.io/flutter_lab/)**
 
 ---
 
